@@ -1,115 +1,87 @@
-## Hi there 👋
-# Hi there, I'm Gquson Philiph 👋
+<h1 align="center">Hi 👋, I'm Gquson Philiph</h1>
 
-### Java Full Stack Developer | Spring Boot | React | MySQL
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Engineer;Open+to+Work" />
+</p>
 
-🎓 BE Electronics and Communication Engineering (2025)
-
-Passionate software developer with a strong foundation in Java, Spring Boot, REST API development, and modern web technologies. I enjoy building scalable applications, solving real-world problems, and continuously improving my software engineering skills.
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-* Java
-* JavaScript
-* Python
-* C++
-
-### Backend Development
-
-* Spring Boot
-* REST APIs
-* Spring MVC
-* JWT Authentication
-
-### Frontend Development
-
-* React.js
-* HTML5
-* CSS3
-* Bootstrap
-* Tailwind CSS
-
-### Database
-
-* MySQL
-* MongoDB
-
-### Tools & Technologies
-
-* Git
-* GitHub
-* Postman
-* VS Code
-* IntelliJ IDEA
+<h3 align="center">🚀 Java Full Stack Developer | Spring Boot | React.js | MySQL</h3>
 
 ---
 
-## 🚀 Featured Projects
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,mongodb,git,github,vscode,postman" />
+</p>
+
+---
+
+## 📊 Skill Level
+
+| Skill           | Level          |
+| --------------- | -------------- |
+| Java            | ██████████ 90% |
+| Spring Boot     | █████████ 85%  |
+| MySQL           | █████████ 85%  |
+| REST APIs       | █████████ 85%  |
+| React.js        | ████████ 75%   |
+| JavaScript      | ████████ 75%   |
+| Git & GitHub    | ████████ 80%   |
+| Data Structures | ███████ 70%    |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME"/>
+</p>
+
+---
+
+## 🚂 Featured Projects
 
 ### Railway Ticket Booking System
 
-Developed a backend application using Spring Boot and MySQL to manage ticket reservations, passenger details, and booking operations through RESTful APIs.
+Spring Boot + MySQL REST API for railway reservation and passenger management.
 
 ### Smart Inventory & Billing System
 
-Built a complete inventory management solution with billing features, product tracking, and database integration.
+Inventory tracking and billing solution using Java technologies.
 
-### E-Commerce Web Application
+### E-Commerce Website
 
-Developed a full-stack MERN application with authentication, product management, and responsive user interfaces.
+Full-stack MERN application with authentication and product management.
 
 ### Task & Productivity Tracker
 
-Created a task management application for organizing daily activities and improving productivity.
-
----
-
-## 📚 Currently Learning
-
-* Spring Security
-* Microservices Architecture
-* Docker
-* Cloud Fundamentals
-* Data Structures & Algorithms
+Task management application for organizing daily activities.
 
 ---
 
 ## 🏆 Certifications
 
-* Java Concepts – Infosys Springboard
-* Network Essentials – Cisco
-* MERN Stack Development
-* Web Development
+✔ Cisco Network Essentials
 
----
+✔ Infosys Springboard – Java Concepts
 
-## 📈 Career Objective
+✔ MERN Stack Development
 
-Seeking opportunities as a Java Full Stack Developer where I can contribute to software development projects, enhance my technical expertise, and grow as a software engineer.
+✔ Web Development
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: linkedin.com/in/gquson
-* Email: gqusonphiliph@gmail.com
-* GitHub: https://github.com/Gquson
+💼 LinkedIn: linkedin.com/in/gquson
 
-<!--
-**Gquson/Gquson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 Email: gqusonphiliph@gmail.com
