@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Gquson Philiph
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Spring+Boot+Backend+Developer;Software+Engineer;Building+Scalable+Web+Applications;Open+to+Work+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Backend+Developer;Software+Engineer;Building+Scalable+Web+Applications;Open+to+Work+🚀" />
 
 ### 🚀 Java Full Stack Developer | Spring Boot | React.js | MySQL
 
@@ -10,13 +10,13 @@
 Passionate Software Developer with a strong foundation in Java, Spring Boot, REST APIs, and Full Stack Development. I enjoy building scalable applications, solving real-world problems, and continuously improving my software engineering skills.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 🎓 BE Electronics and Communication Engineering Graduate (2025)
 
@@ -30,12 +30,12 @@ Passionate Software Developer with a strong foundation in Java, Spring Boot, RES
 * System Design
 * Cloud Fundamentals
 
-🎯 Career Objective:
-To build impactful software solutions and grow as a Backend / Full Stack Engineer in a challenging development environment.
+🎯 Career Goal:
+To build impactful software solutions and grow as a Backend / Full Stack Engineer.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -45,57 +45,48 @@ To build impactful software solutions and grow as a Backend / Full Stack Enginee
 
 ---
 
-# 📊 Skill Snapshot
+## 💻 Skill Proficiency
 
-<div align="center">
-
-| Technology                      | Proficiency |
-| ------------------------------- | ----------- |
-| ☕ Java                          | 90%         |
-| 🍃 Spring Boot                  | 85%         |
-| 🗄️ MySQL                       | 85%         |
-| 🔗 REST APIs                    | 85%         |
-| ⚛️ React.js                     | 75%         |
-| 📜 JavaScript                   | 75%         |
-| 🌿 Git & GitHub                 | 80%         |
-| 🧩 Data Structures & Algorithms | 70%         |
-
-</div>
+<p align="center">
+  <img src="./assets/java.svg" width="170"/>
+  <img src="./assets/spring.svg" width="170"/>
+  <img src="./assets/mysql.svg" width="170"/>
+  <img src="./assets/react.svg" width="170"/>
+</p>
 
 ---
 
-# 🚂 Featured Projects
+## 🚂 Featured Projects
 
-## Railway Ticket Booking System
+### 🚆 Railway Ticket Booking System
 
 * Spring Boot + MySQL
 * REST API Development
 * Ticket Reservation Management
 * Passenger & Booking Management
 
-## 🏪 Smart Inventory & Billing System
+### 🏪 Smart Inventory & Billing System
 
 * Product Inventory Tracking
 * Billing & Sales Management
 * Database Integration
-* Java Backend Development
 
-## 🛒 E-Commerce Website
+### 🛒 E-Commerce Website
 
 * MERN Stack Application
 * User Authentication
 * Product Management
-* Responsive UI Design
+* Responsive UI
 
-## ✅ Task & Productivity Tracker
+### ✅ Task & Productivity Tracker
 
-* Task Management System
+* Task Management
 * Productivity Tracking
-* JavaScript-Based Web Application
+* JavaScript-Based Application
 
 ---
 
-# 🏆 Certifications
+## 🏆 Certifications
 
 ✔ Cisco Network Essentials
 
@@ -103,11 +94,11 @@ To build impactful software solutions and grow as a Backend / Full Stack Enginee
 
 ✔ MERN Stack Development
 
-✔ Web Development Certification
+✔ Web Development
 
 ---
 
-# 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -119,7 +110,7 @@ To build impactful software solutions and grow as a Backend / Full Stack Enginee
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -129,7 +120,7 @@ To build impactful software solutions and grow as a Backend / Full Stack Enginee
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 ✅ Advanced Java
 
@@ -145,7 +136,7 @@ To build impactful software solutions and grow as a Backend / Full Stack Enginee
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 💼 LinkedIn: https://linkedin.com/in/gquson
 
@@ -157,6 +148,6 @@ To build impactful software solutions and grow as a Backend / Full Stack Enginee
 
 <div align="center">
 
-### ⭐ "Code. Learn. Build. Repeat."
+### ⭐ Code • Learn • Build • Repeat
 
 </div>
